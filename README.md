@@ -126,4 +126,7 @@ void -[APMNetworkSurveyor startInjection](void * self, void * _cmd) {
 读者可以直接去[官网](http://www.apmcon.cn/)观看，但是我发现上面的视频观看非常卡，而 **APMCon** 的演讲实录视频资源放在 **AWS** 上，所以下面直接列出与主题相关的视频的链接，读者可以使用**迅雷**等工具下载到本地磁盘后观看。
 
 * [性能可视化实践之路](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/18-A-04.mp4) By 陈武 阿里巴巴高级无线技术专家
+* [网易 APM hook 方案探索](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-05.mp4) By 郑文 网易杭州研究院资深工程师
+* [网易 APM hook 方案探索](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-05.mp4) By 郑文 网易杭州研究院资深工程师
 * [浅谈App优化](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-06.mp4) By 胡彪 饿了么移动技术部高级研发经理
+* [映客直播 iOS App 性能优化实践](https://s3.cn-north-1.amazonaws.com.cn/market.tingyun.com/video/apmcon/19-C-07.mp4) By 刘凯 映客直播iOS高级开发工程师
